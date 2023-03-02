@@ -1,0 +1,17 @@
+{
+  "name": "labecomerce-kebab-case",
+  "version": "1.0.0",
+  "description": "Projeto Back-end Labecomerce",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "clear && tsc && node build/index.js"
+  },
+  "keywords": [],
+  "author": "Arthur Prado",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.14.2",
+    "typescript": "^4.9.5"
+  }
+}
